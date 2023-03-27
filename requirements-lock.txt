@@ -42,7 +42,7 @@ pyparsing==3.0.9
 pytest==7.1.2
 pytest-cov==3.0.0
 pytz==2022.1
-redis==4.3.4
+redis==4.5.3
 six==1.16.0
 SQLAlchemy==1.4.39
 SQLAlchemy-Utils==0.38.2
